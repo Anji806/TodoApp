@@ -1,0 +1,17 @@
+.vs/
+/.vs/
+node_modules/
+frontend/node_modules/
+dist/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+venv/
+venv/*
+.venv/
+.env
+env/
+frontend/dist/
+*.log
+.DS_Store
